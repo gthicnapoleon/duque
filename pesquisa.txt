@@ -1,0 +1,7 @@
+GIT:
+È um sistema de controle de versões distribuídas, ou seja, registrar o histórico de edições de arquivos (principalmente softwares). Foi lançado em 7 de abril de 2005 (20 anos) e foi desenvolvido por Linus Torvalds e Junio Hamano.
+
+o que são esses comandos do GIT: git status, git push e git commit
+O git status mostra o estado dos arquivos, como arquivos que foram alterados, arquivos que o git não está rastreando e arquivos preparados.
+O git push sincroniza o repositório local com o repositório remoto.
+O git commit salva as alterações que você fez no repositório local.
